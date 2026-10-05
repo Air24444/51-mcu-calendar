@@ -1,0 +1,19 @@
+# Keil 编译输出
+仿真万年历代码/Listings/
+仿真万年历代码/Objects/*
+!仿真万年历代码/Objects/project.hex
+
+# Keil 用户界面和配置
+*.uvopt
+*.uvgui.*
+*.bak
+*.tmp
+
+# Proteus 工作区和备份
+*.pdsprj.*
+Project Backups/
+
+# Windows/macOS 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
